@@ -1,0 +1,17 @@
+{
+  "name": "Malaly",
+  "symbol": "MAL",
+  "description": "Malaly is a next-generation cryptocurrency designed for innovation and community.",
+  "image": "https://files.fm/u/q6tedn2dqk",
+  "external_url": "https://mal.haltech.tech",
+  "attributes": [
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "1 Billion MAL"
+    }
+  ]
+}
